@@ -17,7 +17,7 @@ Below are the steps to install and set up the BigSleepHostel project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BigSleepHostel.git
+git clone https://github.com/alexjohnyoung/BigSleepHostel.git
 
 # Navigate to the project directory
 cd BigSleepHostel
